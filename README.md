@@ -1,7 +1,4 @@
-
-
-
-##Gettting and Cleaning Data
+###Gettting and Cleaning Data
 
 ###Week4, course project - Assignment
 
