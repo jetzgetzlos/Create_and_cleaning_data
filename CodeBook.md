@@ -1,10 +1,8 @@
 ###Code Book
-
 This code book describes the data fields in the `tidy.txt` file (output of the `run_analysis.R` script)
 
 
 ### Identifier
-
 * `subjectid` : id of the subject who performed the activity - Its range is from 1 to 30
 * `activity` : type of activity performed during the measurements. The types of activity are : 
 
