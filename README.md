@@ -1,16 +1,12 @@
----
-title: "READMED.md"
-author: "jetzgetzlos"
-date: "2 avril 2017"
----
 
-#Gettting and Cleaning Data
+###Gettting and Cleaning Data
+
 ##Week4, course project - Assignment
 
-### Summary
+## Summary
 This R script `run_analysis.R` is a _getting and clean_ script. 
 
-### Details
+## Details
 the script does the following :
 
 1. Download the datasets from [http://archive.ics.uci.edu](                 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) if they don't already exist

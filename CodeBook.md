@@ -1,9 +1,3 @@
----
-title: "CodeBook.md"
-author: "jetzgetzlos"
-date: "2 avril 2017"
----
-
 ###Code Book
 
 This code book describes the data fields in the `tidy.txt` file (output of the `run_analysis.R` script)
