@@ -1,3 +1,8 @@
+##Gettting and Cleaning Data
+
+Week4, course project - Assignment
+
+
 ### Summary
 This R script `run_analysis.R` is a _getting and clean_ script. 
 
